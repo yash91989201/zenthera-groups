@@ -75,6 +75,7 @@ const Contact: React.FC = () => {
                         <div>
                             <h3 className="font-bold uppercase tracking-wider mb-1 text-sm text-gray-400">Email</h3>
                             <div className="flex flex-col">
+                                <a href="mailto:hr@zentheragroups.com" className="text-xl font-serif text-zenthera-dark hover:text-zenthera-gold transition-colors">Info@zentheragroups.com</a>
                                 <a href="mailto:Info@zentheragroups.com" className="text-xl font-serif text-zenthera-dark hover:text-zenthera-gold transition-colors">Info@zentheragroups.com</a>
                                 <a href="mailto:Careers@zentheragroups.com" className="text-xl font-serif text-zenthera-dark hover:text-zenthera-gold transition-colors">Careers@zentheragroups.com</a>
                             </div>
